@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Service_Calls_Fresher17
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nguyenkma
+Implementation-Vendor-Id: com.nguyenkma
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Service_Calls_Fresher17
+Created-By: Maven Integration for Eclipse
+
